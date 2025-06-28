@@ -1,2 +1,2 @@
 # Data-Analysis-Dashboard
-Developed a Power BI dashboard showcasing top/bottom 10 products by sales revenue and a Pareto analysis of sales revenue by country.
+Developed a data visualization dashboard in Power BI to analyze product performance and sales distribution by country.
