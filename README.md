@@ -17,3 +17,6 @@ This Power BI dashboard visualizes product sales performance using two key insig
 
 ## Usage:
 Useful for identifying high-performing products and key markets for revenue contribution.
+
+## Dashboard url:
+https://github.com/SarahJanvekar/Data-Analysis-Dashboard/blob/main/Screenshot%202025-06-28%20164015.png
