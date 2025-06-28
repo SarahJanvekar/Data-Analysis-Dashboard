@@ -15,7 +15,7 @@ This Power BI dashboard visualizes product sales performance using two key insig
 4. Visualization: Designed interactive visuals including bar charts, color-coded tables, and a Pareto chart to represent insights clearly.
 5. Insight Extraction: Highlighted high-performing products, low performers, and top contributing countries to support decision-making.
 
-## Usage:
+## Conclusion:
 Useful for identifying high-performing products and key markets for revenue contribution.
 
 ## Dashboard url:
